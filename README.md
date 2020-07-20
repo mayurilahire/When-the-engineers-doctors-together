@@ -3,7 +3,7 @@
 Journey of this project started in 2018, now @2020 contributed to the some extent.
 Basically being an Software engineer wanted to contribute for society. 
 Idea was clear to develop an android application through which patients can stay tuned with doctors even when they are not hospitalised.
-With final year project have tried to implement a system for smaller community who are differently abled (physically challenged).
+With final year project have tried to implement a system particularly for smaller community who are differently abled (physically challenged).
 
 The Project is SMART WHEELCHAIR: AUTONOMOUS MOVEMENT AND HEALTHCARE MONITORING.
 
